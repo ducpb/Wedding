@@ -2,12 +2,12 @@ const Ex06 = () => {
     return (
         <section className="thiepmoi-nhatrai ivitation_cards" id="cards-bride" style={{ backgroundImage: 'url("https://tita.wedding/wp-content/themes/main/assets/images/thiepmoi/bgr2.png")' }}>
             <div className="content" style={{ marginTop: '100px' }}>
-                <div className="name" style={{ display: 'flex' }}>
-                    <div className="_item">
-                        <h1 style={{ fontSize: 'revert', color: '#1a3c68' }}>Phạm Thị Mai</h1>
+                <div style={{ display: 'flex' }}>
+                    <div style={{ marginRight: '55px' }}>
+                        <h1 style={{ fontSize: '22px', color: '#1a3c68' }}>Phạm Thị Mai</h1>
                     </div>
-                    <div className="_item">
-                        <h1 style={{ fontSize: 'revert', color: '#1a3c68' }}>Trần Văn Khương</h1>
+                    <div>
+                        <h1 style={{ fontSize: '22px', color: '#1a3c68' }}>Trần Văn Khương</h1>
                     </div>
                 </div>
                 <div className="_kinhmoi">Trân trọng kính mời <strong>bạn và người thương</strong> tới dự
