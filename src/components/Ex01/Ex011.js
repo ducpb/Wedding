@@ -30,8 +30,8 @@ const Ex011 = () => {
           <img width={285} src={Story} alt="https://ducpb.github.io/wedding" />
         </p>
 
-        <p className="label-save" style={{ fontSize: '10px' }}>Save the date</p>
-        <p className="label-date" style={{ fontSize: '30px' }}>21 - 11</p>
+        <p className="label-save" style={{ fontSize: '10px' ,fontFamily: 'Source Sans Pro'}}>Save the date</p>
+        <p className="label-date" style={{ fontSize: '30px' ,fontFamily: 'Source Sans Pro'}}>22 - 11</p>
       </div>
 
       <button className="btn-redirect left" id="redirect-bride">

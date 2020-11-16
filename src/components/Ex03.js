@@ -34,7 +34,7 @@ const Ex03 = () => {
           </div>
 
           <div class="go-to-ivitation">
-            <a href="#thiep-moi" id="ivitation-groom"><span style={{ fontSize: '20px' }}>THIỆP MỜI</span> </a>
+            <a href="#thiep-moi" id="ivitation-groom"><span style={{ fontSize: '20px', fontFamily: 'Source Sans Pro' }}>THIỆP MỜI</span> </a>
           </div>
 
           <div className="back-button" id="back-groom">
@@ -42,7 +42,7 @@ const Ex03 = () => {
               <span></span>{" "}
             </a>
           </div>
-          
+
         </div>
       </div>
     </div>

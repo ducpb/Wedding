@@ -6,7 +6,7 @@ const Ex013 = () => {
     <div className="footer-home typography" style={{ height: "100vh" }}>
       <div className="container_common">
         <div className="content_common" style={{ paddingTop: "30vh" }}>
-          <h2 className="special_thanks">Special Thanks</h2>
+          <h2 className="special_thanks" style={{fontFamily: 'Source Sans Pro'}}>Special Thanks</h2>
           <span className="line1" />
           <a href="https://ducpb.github.io/wedding/" className="logo_ft">
             <img src={small_km} style={{ margin: "auto" }} />
